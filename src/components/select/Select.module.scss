@@ -16,6 +16,10 @@
 	transition: transform 0.2s ease-in-out, margin-top 0.2s ease-in-out;
 }
 
+.arrow_open {
+	transform: rotate(0deg);
+}
+
 .placeholder {
 	display: flex;
 	justify-content: flex-start;
