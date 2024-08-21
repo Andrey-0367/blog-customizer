@@ -1,6 +1,7 @@
 import { Text } from 'components/text';
 
 import styles from './Button.module.scss';
+import React from 'react';
 
 export const Button = ({
 	title,
